@@ -1,1 +1,1 @@
-# fpga-semg-hand-gesture
+项目目标：基于FPGA的机电手势机械手
